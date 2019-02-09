@@ -1,0 +1,7 @@
+main.hs
+output.hs
+main
+*.hi
+*.o
+input
+output
